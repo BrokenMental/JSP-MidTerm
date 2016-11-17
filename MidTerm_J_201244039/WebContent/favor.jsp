@@ -42,7 +42,7 @@
 </head>
 <body align="center">
 
-	<%=id%>님이 로그인 하셨습니다"
+	<%=id%>님이 로그인 하셨습니다
 	<a href=Login.jsp>로그아웃</a>
 
 	<h2>취미생활</h2>
